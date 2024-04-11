@@ -2,7 +2,7 @@
 title: "HaRMoNEE at SemEval-2024 Task 6: Tuning-based Approaches to Hallucination Recognition"
 collection: publications
 permalink: /publication/harmonee
-excerpt: 'This paper presents the #1 and #10 submission to the SHROOM task at SemEval 2024.'
+excerpt: 'This paper presents the #1 (winning) and #10 submissions to the two SHROOM tasks at SemEval 2024.'
 date: 2024-06-20
 venue: 'SemEval 2024'
 paperurl: 'http://timothyobiso.github.io/files/harmonee.pdf'
