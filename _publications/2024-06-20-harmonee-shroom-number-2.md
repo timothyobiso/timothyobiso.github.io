@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/harmonee
 excerpt: 'This paper presents the #1 (winning) and #10 submissions to the two SHROOM tasks at SemEval 2024.'
 date: 2024-06-20
-venue: 'SemEval 2024'
+venue: 'Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024)'
 paperurl: ''
 citation: '<b>Obiso, T.</b>, Tu, J., Pustejovsky, J. (2024). &quot;HaRMoNEE at SemEval-2024 Task 6: Tuning-based Approaches to Hallucination Recognition.&quot; <i>Proceedings of SemEval 2024</i>. (to appear).'
 ---
