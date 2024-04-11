@@ -271,8 +271,8 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-    # _projects
-    - scope:
+  # _projects
+  - scope:
       path: ""
       type: projects
     values:
