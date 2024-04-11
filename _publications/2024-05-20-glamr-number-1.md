@@ -5,7 +5,7 @@ permalink: /publication/glamr
 excerpt: 'This paper proposes GLAMR, an extension of AMR.'
 date: 2024-05-20
 venue: 'LREC-COLING'
-paperurl: 'http://academicpages.github.io/files/glamr.pdf'
+paperurl: 'http://timothyobiso.github.io/files/glamr.pdf'
 citation: 'Tu J., <b>Obiso, T.</b> et. al. (2024). &quot;GLAMR: Augmenting AMR with GL-VerbNet Event Structure.&quot; <i>Proceedings of LREC-COLING 2024</i>. (to appear)'
 ---
 
