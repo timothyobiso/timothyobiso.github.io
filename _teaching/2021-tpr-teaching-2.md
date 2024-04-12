@@ -5,4 +5,6 @@ type: "Teacher/Tutor"
 permalink: /teaching/tpr
 venue: "The Princeton Review"
 date: 2021-07-01
+rating: "4.9/5"
+students: "500+"
 ---
