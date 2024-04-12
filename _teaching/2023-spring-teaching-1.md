@@ -6,4 +6,6 @@ permalink: /teaching/semantics
 venue: "Brandeis University, Linguistics Department"
 date: 2023-01-15
 location: "Waltham, MA"
+rating: "4.9/5"
+students: "40"
 ---
