@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Master's student studying Computational Linguistics at Brandeis University. I am currently working on my Master's Thesis on holographic embeddings for text and graphs. I will begin my PhD in June 2024 advised by James Pustejovsky. 
-
-I like computational semantics!
+Hello! I am a PhD student studying Computational Linguistics at Brandeis University. I recently defended my Master's Thesis, "Holographic Embeddings for Text and Graphs" with High Honors! I am currently working on projects related to computational semantics, holographic embeddings, and lexical semantics!
 
 Recent Updates
 ======
+**Master's Thesis - Passed with High Honors**
+
 **HaRMoNEE SHROOM SemEval 2024 Task 6**
