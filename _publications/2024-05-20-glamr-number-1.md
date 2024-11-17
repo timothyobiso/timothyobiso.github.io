@@ -6,7 +6,7 @@ excerpt: 'This paper proposes GLAMR, an extension of AMR.'
 date: 2024-05-20
 venue: 'LREC-COLING'
 paperurl: 'https://aclanthology.org/2024.lrec-main.685.pdf'
-citation: 'Tu J., <b>Obiso, T.</b>, et. al. (2024). &quot;GLAMR: Augmenting AMR with GL-VerbNet Event Structure.&quot; <i>Proceedings of LREC-COLING 2024</i>.'
+citation: 'Jingxuan Tu, <b>Timothy Obiso</b>, Bingyang Ye, Kyeongmin Rim, Keer Xu, Liulu Yue, Susan Windisch Brown, Martha Palmer, and James Pustejovsky. 2024. GLAMR: Augmenting AMR with GL-VerbNet Event Structure. In <i>Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)</i>, pages 7746–7759, Torino, Italia. ELRA and ICCL.'
 ---
 
 This paper introduces GLAMR, an Abstract Meaning Representation (AMR) interpretation of Generative Lexicon (GL)
