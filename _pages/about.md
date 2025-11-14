@@ -11,6 +11,7 @@ Hello! I am a PhD student studying Computational Linguistics at Brandeis Univers
 
 Recent Updates
 ======
-**Master's Thesis - Passed with High Honors**
 
-**HaRMoNEE SHROOM SemEval 2024 Task 6**
+Presented at **IWCS 2025**
+
+Presented at **CoNLL 2025**
