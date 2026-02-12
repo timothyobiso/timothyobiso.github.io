@@ -5,7 +5,7 @@ permalink: /publication/defid
 excerpt: ''
 date: 2025-08-01
 venue: 'CoNLL 2025 (ACL 2025)'
-paperurl: 'https://arxiv.org/abs/2506.10934'
+paperurl: 'https://aclanthology.org/2025.conll-1.21/'
 citation: '<b>Timothy Obiso</b>, Kenneth Lai, Abhijnan Nath, Nikhil Krishnaswamy, and James Pustejovsky. 2025. Dynamic Epistemic Friction in Dialogue. In <i>Proceedings of the 29th Conference on Computational Natural Language Learning (CoNLL 2025)</i>, Vienna. Association for Computational Linguistics.
 '
 ---
