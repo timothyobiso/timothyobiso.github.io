@@ -1,0 +1,18 @@
+---
+title: "The GELATO Dataset for Legislative NER"
+collection: publications
+permalink: /publication/gelato
+excerpt: 'This paper creates the GELATO dataset and proposes a method for LLM-assisted NER.'
+date: 
+venue: 'LREC'
+paperurl: ''
+citation: 'Matthew Flynn, <b>Timothy Obiso</b>, and Sam Newman. 2026. The GELATO Dataset for Legislative NER. (to appear)'
+---
+
+This paper introduces GELATO (Government, Executive, Legislative, and Treaty Ontology), a dataset of U.S.
+House and Senate bills from the 118th Congress annotated using a novel two-level named entity recognition
+ontology designed for U.S. legislative texts. We fine-tune transformer-based models (BERT, RoBERTa) of different
+architectures and sizes on this dataset for first-level prediction. We then use LLMs with optimized prompts to
+complete the second level prediction. The strong performance of RoBERTa and relatively weak performance of
+BERT models, as well as the application of LLMs as second-level predictors, support future research in legislative
+NER or downstream tasks using these model combinations as extraction tools.
