@@ -12,5 +12,7 @@ Hello! I am a PhD student studying Computational Linguistics at Brandeis Univers
 Recent Updates
 ======
 
+- I am participating in SPAR Spring 2026! I'm working on "Temporal Activation Monitors for AI Oversight"
+- Completed CAIS's AI Safety Course
 - Presented ProPara-CRTS: Canonical Referent Tracking for Reliable Evaluation of Entity State Tracking in Process Narratives at **IWCS 2025**
 - Presented Dynamic Epistemic Friction in Dialogue at **CoNLL 2025**
