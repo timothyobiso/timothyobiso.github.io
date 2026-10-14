@@ -1,17 +1,20 @@
 ---
-layout: archive
-title: "Publications"
+layout: page
 permalink: /publications/
-author_profile: true
+title: publications
+description: publications in reversed chronological order.
+nav: true
+nav_order: 2
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<!-- _pages/publications.md -->
 
-{% include base_path %}
+<!-- Bibsearch Feature -->
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-  <hr>
-{% endfor %}
+{% include bib_search.liquid %}
+
+<div class="publications">
+
+{% bibliography %}
+
+</div>

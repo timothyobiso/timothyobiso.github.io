@@ -1,0 +1,104 @@
+cv:
+  name: Timothy Obiso
+  label: PhD student in NLP at Brandeis University
+  email: timothyobiso@brandeis.edu
+
+  social_networks:
+    - network: GitHub
+      username: timothyobiso
+
+  sections:
+    Education:
+      - institution: Brandeis University
+        area: Computer Science
+        degree: PhD
+        start_date: 2024
+
+      - institution: Brandeis University
+        area: Computational Linguistics
+        degree: MS
+        start_date: 2022
+        end_date: 2024
+        highlights:
+          - High Honors
+          - "Thesis: Holographic Embeddings for Text and Graphs"
+
+      - institution: Boston University
+        area: Linguistics and Chinese Language and Literature
+        degree: BA
+        date: 2022
+        highlights:
+          - BA Linguistics with Honors
+          - BA Chinese Language and Literature
+
+    # Rendered by al_folio_cv under the heading "Experience" (research experience).
+    Experience:
+      - company: Amazon, AWS Support Team
+        position: Applied Scientist Intern
+        location: Seattle
+        start_date: 2026-09
+        end_date: 2026-12
+
+      - company: CBAI
+        position: CBAI Fellow, AI Safety
+        start_date: 2026-06
+        end_date: 2026-09
+        summary: 'Project: "Promises lie in multiple directions: Steering a language model into keeping or breaking its word"'
+
+      - company: SPAR
+        position: SPAR Fellow
+        start_date: 2026-02
+        end_date: 2026-05
+        summary: 'Project: "Temporal Activation Monitors for AI Oversight"'
+
+      - company: Charles River Analytics, NLP Group
+        position: Scientist Intern
+        start_date: 2025-05
+        end_date: 2025-08
+
+      - company: Brandeis University Lab for Linguistics and Computation
+        position: PhD Research Assistant
+        start_date: 2023-07
+
+    Awards:
+      - name: Award for Outstanding Contributions to Research and Teaching by a Computational Linguistics MS Student
+        title: Award for Outstanding Contributions to Research and Teaching by a Computational Linguistics MS Student
+        date: 2024
+
+      - name: Barbara Argote Senior Award in Chinese Language and Literature
+        title: Barbara Argote Senior Award in Chinese Language and Literature
+        date: 2022
+
+      - name: Barbara Argote Junior Award in Linguistics
+        title: Barbara Argote Junior Award in Linguistics
+        date: 2021
+
+    Teaching:
+      - name: "Teaching Assistant, Fundamentals of Natural Language Processing II (COSI 115)"
+        title: "Teaching Assistant, Fundamentals of Natural Language Processing II (COSI 115)"
+        date: "Spring 2025, 2026"
+
+      - name: "Teaching Assistant, Modal, Spatial and Temporal Logic for Language Modeling (COSI 112)"
+        title: "Teaching Assistant, Modal, Spatial and Temporal Logic for Language Modeling (COSI 112)"
+        date: "Fall 2025"
+
+      - name: "Teaching Assistant, Computational Semantics (COSI 135)"
+        title: "Teaching Assistant, Computational Semantics (COSI 135)"
+        date: "Fall 2024"
+
+      - name: "Teaching Assistant, Semantics I (LING 130)"
+        title: "Teaching Assistant, Semantics I (LING 130)"
+        date: "Spring 2023"
+
+    Service:
+      - name: "Reviewer, ACL System Demonstrations Track"
+        title: "Reviewer, ACL System Demonstrations Track"
+        date: 2026
+
+      - name: "Reviewer, Conference on Language Modeling (COLM)"
+        title: "Reviewer, Conference on Language Modeling (COLM)"
+        date: 2026
+
+      - name: "Organizer, Optimal Reliance and Accountability in Interactions with Generative Language Models (COLM workshop)"
+        title: "Organizer, Optimal Reliance and Accountability in Interactions with Generative Language Models (COLM workshop)"
+        date: 2025

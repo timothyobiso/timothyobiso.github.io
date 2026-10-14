@@ -1,22 +1,26 @@
 ---
+layout: about
+title: about
 permalink: /
-title: "Timothy Obiso"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+subtitle: PhD student, Brandeis University
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
+
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
+
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: false
 ---
 
+<style>.profile { width: 20% !important; }</style>
+
 Hello! I am a PhD student studying NLP at Brandeis University. I am currently an Applied Scientist Intern at Amazon in Seattle! This past summer I was a CBAI AI Safety Fellow. I work on mechanistic interpretability, alignment, HRR/VSA, and human-AI teaming!
-
-Recent Updates
-======
-
-- I am an Applied Scientist Intern on the AWS Support Team at Amazon in Seattle (Sept–Dec 2026)!
-- Completed the CBAI AI Safety Fellowship (Summer 2026), working on "Promises lie in multiple directions: Steering a language model into keeping or breaking its word" with Logan Riggs and Gabriele Sarti
-- Published "Clustering Analysis for Error Detection in Named Entity Recognition Datasets" at **LAW XX** (2026)
-- Two papers at **LREC 2026**: Distributed Partial Information Puzzles and The GELATO Dataset for Legislative NER
-- Completed SPAR Spring 2026, working on "Temporal Activation Monitors for AI Oversight"
-- Completed CAIS's AI Safety Course
-- Presented ProPara-CRTS: Canonical Referent Tracking for Reliable Evaluation of Entity State Tracking in Process Narratives at **IWCS 2025**
-- Presented Dynamic Epistemic Friction in Dialogue at **CoNLL 2025**
